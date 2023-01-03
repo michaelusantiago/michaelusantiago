@@ -1,5 +1,12 @@
-### Hi there 👋
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelusantiago&count_private=true&show_icons=true)](https://github.com/michaelusantiago)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelusantiago&layout=compact&langs_count=8)](https://github.com/michaelusantiago)
+
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning Go and Python
+- 👯 I’m looking to collaborate on AI's and Machine Learning things..
+- ⚡ Fun fact: no work since 2011 😄
+- 📫 How to reach me: https://michaelsantiago.ca (soon)
 <!--
 **michaelusantiago/michaelusantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
