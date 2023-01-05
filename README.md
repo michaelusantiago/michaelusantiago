@@ -6,7 +6,7 @@
 
 [![Michaels's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=michaelusantiago&show_icons=true&count_private=true&theme=gotham)](https://github.com/michaelusantiago)
 
-- 🔭 I’m currently working on my personal projects [NeonTech IT Solutions](https://neontech.vercel.app) etc..
+- 🔭 I’m currently working on my personal project [NeonTech IT Solutions](https://neontech.vercel.app), etc..
 - 🌱 I’m currently learning Go and Python
 - 👯 I’m looking to collaborate on AI's and Machine Learning things..
 - ⚡ Fun fact: no work since 2011 😄
